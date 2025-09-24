@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Base app container for Telegram WebApp */
+html, body, #root {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
